@@ -1,0 +1,2 @@
+com/ksu/soccerserver/SoccerServerApplicationTests.java
+ com.ksu.soccerserver.SoccerServerApplicationTests
